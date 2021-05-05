@@ -1,9 +1,9 @@
-# Project Name
+# Listination
 listination
 
-# We often forget things to carry when we are going on a trip. To tackle this problem we have created a solution to help passengers maintain a checklist depending on the type of trip.
+# Problem Statement
 
-To tackle this problem we present to you THE_NAME_OF_PRODUCT which can quickly give you an almost ready checklist so you dont have to do all the work
+We often forget things to carry when we are going on a trip. To tackle this problem we have created a solution to help passengers maintain a checklist depending on the type of trip.
 
 # What it Does?
 

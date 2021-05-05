@@ -14,7 +14,7 @@ We didnt want to over complicate things and hence we didn't, we used html, css a
 
 # How to run it locally
 Don't worry, remembering things for a trip is not as hard as going to one. 
-1. Download the zip file and extract it in your PC.
+1. Git clone the repository  in your pc.
 2. Open the HTML file named "destination.html" in your pc and click on the type of place where you want to go to.
 3. you will be redirected towards the mode of transportation you would be taking in the trip.
 4. Once selected you would be shown a page of unlimited items that one tends to forget while on a trip.

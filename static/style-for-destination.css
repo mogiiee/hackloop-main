@@ -1,12 +1,19 @@
 body
 {
-  background-color:#eee
+  background-color:#fff
 }
+
 .bg
 {
     height: 100%;
     width: 100%;
-    image-resolution: 100%;
+    image-resolution: 100%;   
+}
+
+.heading
+{
+  font-size: 70px ;
+  font-family: Georgia, 'Times New Roman', Times, serif ;
 }
 
 .wrap
@@ -16,11 +23,9 @@ body
   display:inline;
   align-items:center;
   top: 50%;
-  transform: translate(10% ,-50%);
+  transform: translate(+7% ,-50%);
   position: absolute;
 }
-
-
 
 .tile
 {

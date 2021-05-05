@@ -6,11 +6,13 @@ body {
   min-height: 450px;
   height: 100vh;
   margin: 0;
-  background: url('../static/cool-background-bg.jpg');
+  background: url('../static/cool-background.jpg');
   color: #fff;
   font-family: 'Nunito', serif;
 }
-button, input, select, textarea {
+
+button, input, select, textarea 
+{
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
